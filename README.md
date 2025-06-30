@@ -8,8 +8,6 @@
 - **Résolution de problèmes** et esprit d'équipe
 
 ## 🚀 Projet à la une
-### [Escapegame](#)
-Un projet immersif mêlant logique et créativité. 
 
 ## 🎸🏀 Loisirs
 - **Basketball** 
