@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Noachuut !
 
-<!--
-**noachuut/noachuut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Alternant Développeur Junior** passionné par la tech et toujours prêt à apprendre de nouvelles choses.
 
-Here are some ideas to get you started:
+## 🛠️ Compétences principales
+- **Langages :** Python, Java, HTML, CSS, SQL
+- **Développement web** & backend
+- **Résolution de problèmes** et esprit d'équipe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projet à la une
+### [Escapegame](#)
+Un projet immersif mêlant logique et créativité. 
+
+## 🎸🏀 Loisirs
+- **Basketball** 
+- **Guitare** (quelques riffs après le code)
+
+## 💡 Citation inspirante
+> "Toujours apprendre, toujours progresser."
+
+---
+Merci de visiter mon profil ! N'hésite pas à me contacter ou à jeter un œil à mes projets.  
+Let's build something awesome together 🚀
