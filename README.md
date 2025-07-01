@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Noachuut !
+# 👋 Salut, moi c'est Noa !
 
 🎓 **Alternant Développeur Junior** passionné par la tech et toujours prêt à apprendre de nouvelles choses.
 
