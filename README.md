@@ -5,7 +5,7 @@
 ## 🛠️ Compétences principales
 - **Langages :** Python, Java, HTML, CSS, SQL
 - **Développement web** & backend
-- **Résolution de problèmes** et esprit d'équipe
+- **Résolution de problèmes**
 
 ## 🚀 Projet à la une
 
