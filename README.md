@@ -7,12 +7,6 @@
 - **Développement web** & backend
 - **Résolution de problèmes**
 
-## 🚀 Projet à la une
-
-## 🎸🏀 Loisirs
-- **Basketball** 
-- **Guitare** (quelques riffs après le code)
-
 ## 💡 Citation inspirante
 > "Toujours apprendre, toujours progresser."
 
