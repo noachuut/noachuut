@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noachuut</h1>
-<h3 align="center">A passionate frontend developer from New-Calédonia</h3>
+<h3 align="center">A passionate backend developer from New-Calédonia</h3>
 </br>
 
 - 🔭 I’m currently working on **BatchDocubase**
